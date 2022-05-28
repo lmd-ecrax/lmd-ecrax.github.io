@@ -1,0 +1,33 @@
+.content {
+    padding: 36px 0px;
+    width: 80%;
+    margin: auto;
+    font-family: 'Helvetica', 'sans-serif';
+    font-size: 12pt;
+}
+
+.big-title {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 64pt;
+}
+
+.hline {
+    padding: 4px;
+    margin: auto;
+    background-color: black;
+    width: 200px;
+}
+
+.upcoming {
+    padding: 30px;
+    font-size: 32pt;
+    text-align: center;
+}
+
+.upcoming-title {
+    font-size: 48pt;
+    font-weight: bold;
+}
