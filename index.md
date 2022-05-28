@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "LMD Early Career Researcher's Assembly X"
+title: "LMD Early Career Researchers' Assembly X"
 ---
 
-<div class="big-title">LMD Early Career Researcher's Assembly X</div>
+<div class="big-title">LMD Early Career Researchers' Assembly X</div>
 
 <div class="hline"></div>
 
